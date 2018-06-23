@@ -1,0 +1,19 @@
+{
+  "name": "grand",
+  "version": "1.0.0",
+  "description": "Project using graphql, neo4j, apollo server and react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grand",
+    "neo4j",
+    "apollo",
+    "server",
+    "graphql",
+    "react"
+  ],
+  "author": "Alejandro Herrera",
+  "license": "MIT"
+}
